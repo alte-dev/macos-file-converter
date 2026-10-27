@@ -1,0 +1,15 @@
+# Swift / Xcode build artifacts
+.build/
+*.dSYM/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.vscode/
+
+# Release & App bundle artifacts (distributed via GitHub Releases)
+*.app/
+*.dmg
+*.zip
+dmg-background.tiff
+
+release-assets/
